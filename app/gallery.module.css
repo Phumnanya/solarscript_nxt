@@ -15,7 +15,7 @@
     height: 500px;
     justify-content: center;
   }
-  @media (max-width: 800px) {.grid-container {grid-template-columns: none; display: flex; flex-flow: row wrap;
+  @media (max-width: 800px) {.gridcontainer {grid-template-columns: none; display: flex; flex-flow: row wrap;
     height: fit-content;}}
   .griditem {
     text-align: center;
@@ -30,7 +30,7 @@
     height: 240px;
     object-fit: cover;
   }
-  @media (max-width: 800px) {.grid-item img {height: 300px;}}
+  @media (max-width: 800px) {.griditem img {height: 300px;}}
   .item2 {
     grid-area: 1 / 2 / 3 / 2 ;
     background-color: limegreen;
