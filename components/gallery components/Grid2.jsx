@@ -1,4 +1,5 @@
 import styles from "@/app/gallery.module.css";
+
 export default function Grid2() {
     return(
         <>
