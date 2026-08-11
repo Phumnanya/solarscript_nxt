@@ -6,7 +6,7 @@ export default function Grid2() {
             <div className={`${styles.griditem} ${styles.item1}`}><a target="_blank" href="B1.jpg">
                 <img src="B1.jpg" alt="project" /></a></div>
             <div className={`${styles.griditem} ${styles.item2}`}><a target="_blank" href="BC.jpg">
-                <img src="BC.jpg" alt="project" style={{objectFit: "cover"}} /></a></div>
+                <img src="IMG-20260419-WA0049.jpg" alt="project" style={{objectFit: "cover"}} /></a></div>
             <div className={`${styles.griditem} ${styles.item3}`}><a target="_blank" href="helmet.jpg">
                 <img src="helmet.jpg" alt="project" /></a></div>
             <div className={`${styles.griditem} ${styles.item4}`}><a target="_blank" href="B3.jpg">
