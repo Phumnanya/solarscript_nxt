@@ -5,13 +5,13 @@ export default function Grid2() {
         <div className={styles.gridcontainer}>
             <div className={`${styles.griditem} ${styles.item1}`}><a target="_blank" href="B1.jpg">
                 <img src="B1.jpg" alt="project" /></a></div>
-            <div className={`${styles.griditem} ${styles.item2}`}><a target="_blank" href="BC.jpg">
+            <div className={`${styles.griditem} ${styles.item2}`}><a target="_blank" href="IMG-20260419-WA0049.jpg">
                 <img src="IMG-20260419-WA0049.jpg" alt="project" style={{objectFit: "cover"}} /></a></div>
             <div className={`${styles.griditem} ${styles.item3}`}><a target="_blank" href="helmet.jpg">
                 <img src="helmet.jpg" alt="project" /></a></div>
-            <div className={`${styles.griditem} ${styles.item4}`}><a target="_blank" href="B3.jpg">
+            <div className={`${styles.griditem} ${styles.item4}`}><a target="_blank" href="IMG_20250824_153439_7.jpg">
                 <img src="IMG_20250824_153439_7.jpg" alt="project" /></a></div>
-            <div className={`${styles.griditem} ${styles.item5}`}><a target="_blank" href="B4.jpg">
+            <div className={`${styles.griditem} ${styles.item5}`}><a target="_blank" href="IMG_20260112_154053_794.jpg">
                 <img src="IMG_20260112_154053_794.jpg" alt="project" /></a></div>
         </div>
 
