@@ -12,7 +12,7 @@ export default function Grid2() {
             <div className={`${styles.griditem} ${styles.item4}`}><a target="_blank" href="B3.jpg">
                 <img src="IMG_20250824_153439_7.jpg" alt="project" /></a></div>
             <div className={`${styles.griditem} ${styles.item5}`}><a target="_blank" href="B4.jpg">
-                <img src="B4.jpg" alt="project" /></a></div>
+                <img src="IMG_20260112_154053_794.jpg" alt="project" /></a></div>
         </div>
 
         <div className={styles.quotes}>
