@@ -13,8 +13,8 @@ export default function Grid1() {
                 <img src="white logo.png" alt="project" /></a></div>
             <div className={`${styles.griditem} ${styles.item3}`}><a target="_blank" href="frame3.jpg">
                 <img src="frame3.jpg" alt="project" /></a></div>
-            <div className={`${styles.griditem} ${styles.item4}`}><a target="_blank" href="frame4.jpg">
-                <img src="frame4.jpg" alt="project" /></a></div>
+            <div className={`${styles.griditem} ${styles.item4}`}><a target="_blank" href="IMG_20260715_180637_140.jpg">
+                <img src="IMG_20260715_180637_140.jpg" alt="project" /></a></div>
             <div className={`${styles.griditem} ${styles.item5}`}><a target="_blank" href="frame5.jpg">
                 <img src="frame5.jpg" alt="project" /></a></div>
         </div>
