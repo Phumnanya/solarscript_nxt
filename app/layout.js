@@ -1,5 +1,6 @@
 import './globals.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Analytics } from "@vercel/analytics/next"
 
 /*const geistSans = Geist({
   variable: "--font-geist-sans",
