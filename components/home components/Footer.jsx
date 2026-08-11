@@ -21,7 +21,7 @@ export default function Footer() {
                 <input type="email" placeholder="enter email address" />
                 <button type="button" class="btn btn-md btn-warning ms-2">Sign up</button>
                 <br />
-                <h5 className={styles.copyright}>&copy; Solarscript Technologies 2023</h5>
+                <h5 className={styles.copyright}>&copy; Solarscript Technologies 2026</h5>
             </footer>
         </>
     )
