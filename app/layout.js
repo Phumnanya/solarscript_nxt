@@ -25,6 +25,7 @@ export default function RootLayout({ children }) {
     </head>
       <body style={{fontFamily: "Arial, Helvetica, sans-serif"}}>
         {children}
+  <Analytics />
       </body>
     </html>
   );
